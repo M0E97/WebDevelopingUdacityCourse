@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebcd940-69e6-4ac5-b772-b992b4a9c9a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebDevelopingUdacityCourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawShapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entertainment_Center.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fresh_tomatoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhertance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Madlibs_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie_Website.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecretMessage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SendText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TakeBreak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check_Profanity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daysBetweenTwoDates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fresh_tomatoes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +14,7 @@
     <session id="1121369001">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="1" />
@@ -62,11 +45,12 @@
           <entry key="Python Console" value="31" />
           <entry key="dummy" value="4" />
           <entry key="py" value="3315" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="17" />
           <entry key="Python" value="2452" />
           <entry key="Scratch" value="894" />
         </counts>
@@ -344,6 +328,14 @@
       <option name="presentableId" value="Default" />
       <updated>1534102724771</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add new files">
+      <created>1535830383631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535830383631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -352,9 +344,9 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20075758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32919255" />
-      <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49545455" weight="0.32972136" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32919255" />
+      <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.4969697" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.5030303" side_tool="true" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50454545" side_tool="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -362,7 +354,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.50454545" side_tool="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.5030303" side_tool="true" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,6 +364,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -496,6 +492,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="162" column="22" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -510,6 +509,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="20" column="107" selection-start-line="20" selection-start-column="107" selection-end-line="20" selection-end-column="107" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
